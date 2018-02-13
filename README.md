@@ -32,9 +32,8 @@ $ npm run build
 ## More Info
 
 ### Author
-
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
+alxmnl88
+https://github.com/alexmnl88
 
 ### License
 
